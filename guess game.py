@@ -1,4 +1,4 @@
-# Guess the Number Game
+# Guess_Number Game
 # A simple Python beginner project
 
 import random
