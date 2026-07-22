@@ -18,3 +18,17 @@ A simple task management application.
 
 ## Language
 Python 3
+
+Initial commit: add Python Basics repository
+
+- Data types
+- Operators
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Functions
+- Loops
+- Exception handling
+- File handling
+- Mini projects
