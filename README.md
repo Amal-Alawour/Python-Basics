@@ -1,28 +1,35 @@
-# Python-Basics
+# Python Basics
+
 My Python learning journey and beginner projects.
 
-## Projects
+## Topics Covered
 
-### 1. Simple_Calculator
+- Data Types
+- Operators
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Functions
+- Loops
+- Exception Handling
+- File Handling
+
+## Mini Projects
+
+### 1. Simple Calculator
 A calculator that performs:
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-### 2. Guess_Number Game
+### 2. Guess Number Game
 A game where the user tries to guess a random number.
 
-### 3. Todo_List
+### 3. Todo List
 A simple task management application.
 
 ## Language
-Python 3
 
-feat: add Python fundamentals exercises and mini projects
-
-- Add programs demonstrating data types and operators
-- Implement list, tuple, set, and dictionary examples
-- Add function and loop practice exercises
-- Include exception handling and file handling programs
-- Add mini projects to apply core Python concepts
+- Python 3
